@@ -25,6 +25,8 @@ The challenge is to predict whether a customer, who already has health insurance
 3. Policy Information
 4. Target Variable
 
+## Methodology
+
 1. Exploratory Data Analysis (EDA): Understand the distribution of features, relationships between variables, and detect any anomalies.
 2. Data Preprocessing: Handle missing values, encode categorical variables, and create relevant features.
 3. Modeling: Train different classification models (e.g., Logistic Regression, Decision Trees, Random Forest, XGBoost) to predict the target variable.
