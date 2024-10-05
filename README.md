@@ -17,3 +17,20 @@ The challenge is to predict whether a customer, who already has health insurance
 1. Build a predictive model that classifies whether a policyholder is interested in vehicle insurance.
 2. Utilize demographic information, vehicle details, and policy features to make accurate predictions.
 3. Optimize the model to maximize accuracy and other performance metrics.
+
+## Data Overview
+
+1. Customer Demographics
+2. Vehicle Information
+3. Policy Information
+4. Target Variable
+
+1. Exploratory Data Analysis (EDA): Understand the distribution of features, relationships between variables, and detect any anomalies.
+2. Data Preprocessing: Handle missing values, encode categorical variables, and create relevant features.
+3. Modeling: Train different classification models (e.g., Logistic Regression, Decision Trees, Random Forest, XGBoost) to predict the target variable.
+4. Evaluation: Measure model performance 
+
+
+
+
+   
